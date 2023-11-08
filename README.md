@@ -1,1 +1,1 @@
-# new-up
+# photo-gallery
